@@ -5,10 +5,13 @@
 }
 body{
     background-color: #262626;
+	
 }
 .display{
     width: 40%;
-     background: url(img/1.jpg);
+    background:url(img2/img2.jpg) no-repeat;
+	background-size:100% 530px;
+	
     padding: 20px;
     height: 530px;
     transform: translate(67%, 15%);
@@ -70,3 +73,4 @@ button{
     right: 30%;
     transform: rotate()
 }
+
